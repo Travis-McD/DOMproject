@@ -18,3 +18,5 @@ function show_pattern(){
         width -= 20; height -= 20;
     }
 }
+
+//anything goes here
